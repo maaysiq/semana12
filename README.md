@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="imagens/bancodedados.png" alt="mulher negra usando computador" width="316">
+  <img src="imagens/bancoDeDados.png" alt="mulher negra usando computador" width="500">
   <br>
     <br>
     <p align="center"> Semana 12 - Banco de Dados <p>
@@ -8,6 +8,8 @@
 
 
 <h2> O que é um Banco de dados? </h2>
+
+Bancos de dados ou bases de dados são conjuntos de arquivos relacionados entre si com registros sobre pessoas, lugares ou coisas. São coleções organizadas de dados que se relacionam de forma a criar algum sentido e dar mais eficiência durante uma pesquisa ou estudo cientifico.
 
 
 
