@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="imagens/bancoDeDados.png" alt="mulher negra usando computador" width="500">
+  <img src="imagens/bancodedados.png" alt="Imagem de um banco de dados" width="500">
   <br>
     <br>
     <p align="center"> Semana 12 - Banco de Dados <p>
